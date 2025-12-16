@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_container">#C8E6C9</color>
+
+    <!-- Surface Colors - These are your backgrounds -->
+    <color name="surface">#F8FAF7</color>
+    <color name="surface_container">#FFFFFF</color>
+    <color name="surface_bright">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="on_surface">#000000</color>
+    <color name="on_surface_variant">#666666</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Outline -->
+    <color name="outline">#E0E0E0</color>
+
+    <!-- Accent Colors -->
+    <color name="warning">#FF0000</color>
+
+    <!-- For Compatibility -->
+    <color name="seed">#4CAF50</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

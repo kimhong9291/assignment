@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EcoTrack</string>
+    <string name="welcome_message">Welcome Back!</string>
+    <string name="action_saved">Action Saved!</string>
+</resources>
